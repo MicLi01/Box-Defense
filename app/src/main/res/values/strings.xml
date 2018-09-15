@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eternal Box</string>
+    <string name="start">Start Boxing</string>
+    <string name="rules"> Rules </string>
+    <string name="watchAd">Watch an Ad to gain an extra Life</string>
+    <string name="life"> Extra Lives: </string>
+    <string name="highS"> High Score: </string>
+    <string name="summary"> Box awakened and is being attacked. Help box out. </string>
+    <string name="rule1"> 1) X has 1 life. O has 2 lives </string>
+    <string name="rule2"> 2) Click on the Xs or Os to damage them </string>
+    <string name="rule3"> 3) Box will take damage when Xs or Os reach it </string>
+</resources>
